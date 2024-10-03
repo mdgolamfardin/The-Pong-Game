@@ -67,7 +67,3 @@ Contributions to this project are welcome, especially from fellow learners who a
 This project is a part of the course "100 Days of Code: The Complete Python Pro Bootcamp", taught by Dr. Angela Yu on Udemy.
 ## Author
 - [mdgolamfardin](https://github.com/mdgolamfardin)
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-Enjoy playing Pong, and happy coding!
