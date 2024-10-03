@@ -53,7 +53,6 @@ The ball will bounce off the paddles, and the walls upward and downward. If one 
 The game continues until one player reaches a score of 10. The scoreboard at the top will update in real-time as players score points.
 
 ## Contributing
-
 Contributions to this project are welcome, especially from fellow learners who are also taking the Udemy Python course. To contribute:
 
 1. Fork the repository.
@@ -62,9 +61,10 @@ Contributions to this project are welcome, especially from fellow learners who a
 4. Commit your changes (`git commit -am 'Add some improvements'`).
 5. Push to the branch (`git push origin improve-feature`).
 6. Create a pull request.
+7. 
 ## Acknowledgments
-
 This project is a part of the course "100 Days of Code: The Complete Python Pro Bootcamp", taught by Dr. Angela Yu on Udemy.
+
 ## Author
 - [mdgolamfardin](https://github.com/mdgolamfardin)
 ## License
