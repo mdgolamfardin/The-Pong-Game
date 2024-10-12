@@ -48,7 +48,7 @@ python main.py
 
 To play the game, launch `main.py`. Control the left paddle with the 'W' and 'S' keys for up and down movements, respectively. Control the right paddle using the 'Up Arrow' and 'Down Arrow' keys.
 
-The ball will bounce off the paddles, and the walls upward and downward. If one player misses the ball, the other player scores a point.
+The ball will bounce off the paddles, the upper wall, and the downward. If one player misses the ball, the other player scores a point.
 
 The game continues until one player reaches a score of 10. The scoreboard at the top will update in real-time as players score points.
 
@@ -67,7 +67,3 @@ This project is a part of the course "100 Days of Code: The Complete Python Pro 
 
 ## Author
 - [mdgolamfardin](https://github.com/mdgolamfardin)
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-Enjoy playing Pong, and happy coding!
