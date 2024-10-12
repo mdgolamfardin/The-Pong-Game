@@ -61,7 +61,7 @@ Contributions to this project are welcome, especially from fellow learners who a
 4. Commit your changes (`git commit -am 'Add some improvements'`).
 5. Push to the branch (`git push origin improve-feature`).
 6. Create a pull request.
-7. 
+   
 ## Acknowledgments
 This project is a part of the course "100 Days of Code: The Complete Python Pro Bootcamp", taught by Dr. Angela Yu on Udemy.
 
